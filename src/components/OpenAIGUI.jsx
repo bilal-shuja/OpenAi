@@ -13,6 +13,7 @@ const OpenAIGUI = () => {
   
       return () => clearTimeout(timer);
     }, []);
+    
 
   return (
     <>
@@ -85,7 +86,6 @@ const OpenAIGUI = () => {
                         adipisicing elit. Eaque tempore deserunt, et explicabo velit
                         accusantium nesciunt facere molestiae culpa mollitia. Lorem
                         ipsum dolor sit amet consectetur adipisicing elit. 
-                        
                         <ul className="mt-2">
     
                             <li className="mt-2 mb-2">
