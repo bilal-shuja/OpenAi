@@ -13,6 +13,7 @@ const OpenAIGUI = () => {
   
       return () => clearTimeout(timer);
     }, []);
+    
 
   return (
     <>
