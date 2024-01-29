@@ -28,7 +28,7 @@ const OpenAIGUI = () => {
         (
             <section className="open-ai-sec">
             <div className="container mt-5">
-              <h4 className="fw-bold ">chat gpt evolution</h4>
+              <h4 className="fw-bold ">chat gpt Revolution</h4>
               <div className="row">
                 <div className="col-lg-8">
                   <section id="response-resources-section">
